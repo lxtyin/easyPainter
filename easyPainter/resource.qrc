@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="images">
+    <file>img/back.png</file>
+
+    <file>img/pen.png</file>
+    <file>img/eraser.png</file>
+    <file>img/bucket.png</file>
+    <file>img/bucket_cursor.png</file>
+
+    <file>img/new_file.png</file>
+    <file>img/open_file.png</file>
+    <file>img/save_file.png</file>
+    <file>img/revoke.png</file>
+
+    <file>img/tool.png</file>
+
+    <file>img/lock.png</file>
+    <file>img/unlock.png</file>
+
+    <file>img/new.png</file>
+    <file>img/del.png</file>
+    <file>img/hide.png</file>
+  </qresource>
+</RCC>
